@@ -1,0 +1,88 @@
+body{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    text-align: center;
+}
+div{
+    height:450px;
+    width:400px;
+    border: 2px,solid,black;
+    display: inline-block;
+}
+h1{
+        color: black;
+        text-align: center;
+        font-weight: bold;
+        padding: 25px;
+        margin: 25px;
+}
+        .packages1{
+            color: #000;
+            text-align: center;
+            font: weight 500px; 
+            border:1px ,solid ,black;
+            padding:15;
+            margin: 10px;
+        }
+   .price1{
+    color:rgb(15, 15, 15);
+    text-align: center;
+    font-size: larger;
+   }
+   .packages2{
+    color: #000;
+    text-align: center;
+    font: weight 500px; 
+    border:1px ,solid ,black;
+    padding:15;
+    margin: 10px;
+    
+    
+}
+.price2{
+color:rgb(15, 15, 15);
+text-align: center;
+font-size: larger;
+}
+.packages3{
+    color: #000;
+    text-align: center;
+    font: weight 500px; 
+    border:1px ,solid ,black;
+    padding:15;
+    margin: 10px;
+}
+.price3{
+color:rgb(15, 15, 15);
+text-align: center;
+font-size: larger;
+}
+   span{
+    color: rgba(153, 250, 7, 0.993);
+    font-size: 40px;
+   }
+ul{
+    list-style: none;
+    padding: 0;
+    color: #000;
+}
+ul li{
+    margin: 8px;
+} 
+    #button1{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    }
+    #button2{
+    color:white; 
+    border:none;
+background-color: rgba(153, 250, 7, 0.993);
+margin-top: 20px;
+padding: 10px 30px;
+cursor: pointer;
+}
+
+
